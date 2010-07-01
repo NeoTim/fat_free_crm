@@ -1,4 +1,4 @@
 source :gemcutter
 
 gem 'mysql'
-gem 'rails'
+gem 'rails', '= 2.3.5'
